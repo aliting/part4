@@ -40,5 +40,6 @@ public class TestMapper {
 
        int i =  houseInfoMapper.saveHouseInfo(info);
         System.err.println(i>0?"success":"fail");
+        System.err.println("rose 修改 bbbbbbbb");
     }
 }
