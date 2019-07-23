@@ -27,7 +27,11 @@ public class TestMapper {
     @Test
     public    void  test(){
          //测试 哈哈哈哈哈
-        int i  = 10;
+       //int i  = 10;
+
+        //分支下开发
+        System.out.println("ceshi");
+
         HouseInfo info = new HouseInfo();
         info.setTitle("好房出租");
         info.setAddress("北京海淀区");
