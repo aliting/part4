@@ -23,10 +23,11 @@ public class TestMapper {
 
     @Resource
     private HouseInfoMapper houseInfoMapper;
-
+    //测试 哈哈哈哈哈
     @Test
     public    void  test(){
-
+         //测试 哈哈哈哈哈
+        int i  = 10;
         HouseInfo info = new HouseInfo();
         info.setTitle("好房出租");
         info.setAddress("北京海淀区");
